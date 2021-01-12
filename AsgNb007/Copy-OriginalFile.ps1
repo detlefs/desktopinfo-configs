@@ -1,0 +1,1 @@
+Copy-Item -Path "C:\Program Files (x86)\DesktopInfo\desktopinfo.ini" -Destination "D:\git\github\desktopinfo-configs\AsgNb007\desktopinfo.ini" -Force
