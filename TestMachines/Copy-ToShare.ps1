@@ -1,0 +1,1 @@
+Copy-Item -Path "D:\git\github\desktopinfo-configs\TestMachines\desktopinfo.ini" -Destination "h:\_MyPackages\DesktopInfo\desktopinfo.ini" -Force
