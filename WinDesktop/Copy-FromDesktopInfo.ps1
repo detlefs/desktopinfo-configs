@@ -1,0 +1,1 @@
+Copy-Item -Path "C:\Program Files (x86)\DesktopInfo\desktopinfo.ini" -Destination "D:\Entwicklung\Github\desktopinfo-configs\WinDesktop\desktopinfo.ini" -Force
