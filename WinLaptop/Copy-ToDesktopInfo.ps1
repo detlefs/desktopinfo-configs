@@ -1,0 +1,1 @@
+Copy-Item -Path "D:\github\detlefs\desktopinfo-configs\WinLaptop\desktopinfo.ini" -Destination "D:\Apps\DesktopInfo\desktopinfo.ini" -Force
